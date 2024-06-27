@@ -1,24 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Visão Geral do Projeto
 
-Currently, two official plugins are available:
+Este projeto é uma plataforma de blog que permite aos usuários criar, visualizar, editar e excluir posts. Utiliza o React para o frontend e Axios para realizar requisições HTTP à API backend, proporcionando uma experiência interativa e dinâmica para os usuários.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# BlogAxios" 
-"# BlogAxios" 
-"# BlogAxios" 
-"# BlogAxios" 
-"# BlogAxios" 
-"# BlogAxios" 
-"# BlogAxios" 
-"# BlogAxios" 
-"# BlogAxios" 
-"# Blog-Axios" 
-"# Blog-Axios" 
-"# Blog-Axios" 
-"# AxiosBlog" 
-"# AxiosBlog" 
-"# AxiosBlog" 
-"# AxiosBlog" 
+## Funcionalidades Principais
+
+- **Autenticação:** A aplicação pode ser configurada para requerer autenticação de usuários antes de permitir a criação, edição ou exclusão de posts.
+  
+- **Gerenciamento de Posts:** Os usuários podem criar novos posts, editar posts existentes e excluí-los conforme necessário.
+  
+- **Navegação:** Utilização do React Router para navegação entre diferentes páginas da aplicação, garantindo uma experiência de usuário fluída e responsiva.
+  
+- **Estilização:** Aplicação de estilos utilizando CSS para criar uma interface limpa e agradável ao usuário.
+
+- **Estrutura:**
+- 
+-React-axios
+      ├── public/            # Arquivos públicos
+      ├── src/               # Código fonte da aplicação
+      │   ├── components/    # Componentes React reutilizáveis
+      │   ├── pages/         # Páginas principais da aplicação
+      │   └── App.js         # Componente principal da aplicação
+      ├── .env               # Arquivo de configuração de variáveis de ambiente
+      └── README.md          # Este arquivo
+
