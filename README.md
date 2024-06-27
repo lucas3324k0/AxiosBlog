@@ -12,17 +12,3 @@ Este projeto é uma plataforma de blog que permite aos usuários criar, visualiz
 - **Navegação:** Utilização do React Router para navegação entre diferentes páginas da aplicação, garantindo uma experiência de usuário fluída e responsiva.
   
 - **Estilização:** Aplicação de estilos utilizando CSS para criar uma interface limpa e agradável ao usuário.
-
-- **Estrutura:**
-- 
-<div align='center'>
-  -React-axios
-      ├── public/            # Arquivos públicos
-      ├── src/               # Código fonte da aplicação
-      │   ├── components/    # Componentes React reutilizáveis
-      │   ├── pages/         # Páginas principais da aplicação
-      │   └── App.js         # Componente principal da aplicação
-      ├── .env               # Arquivo de configuração de variáveis de ambiente
-      └── README.md          # Este arquivo
-
-</div>
