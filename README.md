@@ -15,7 +15,8 @@ Este projeto é uma plataforma de blog que permite aos usuários criar, visualiz
 
 - **Estrutura:**
 - 
--React-axios
+<div align='center'>
+  -React-axios
       ├── public/            # Arquivos públicos
       ├── src/               # Código fonte da aplicação
       │   ├── components/    # Componentes React reutilizáveis
@@ -24,3 +25,4 @@ Este projeto é uma plataforma de blog que permite aos usuários criar, visualiz
       ├── .env               # Arquivo de configuração de variáveis de ambiente
       └── README.md          # Este arquivo
 
+</div>
